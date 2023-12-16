@@ -4,6 +4,7 @@
 - Successfully scraped code from the Mars New Website and used a for loop to extract the title and preview of the articles on the page.
 - These titles and previews were added to individual dictionaries and then appended to a list.
 - The list was printed out and the titles and previews were displayed as requested.
+- ![image](https://github.com/lvit001/web-scraping-challenge/assets/140283164/ba9f9a57-db0e-4acf-bb99-c6996d91dba9)
 ## [Part 2](https://github.com/lvit001/web-scraping-challenge/blob/main/Starter_Code/part_2_mars_weather.ipynb)
 - Successfully scraped code from the Mars data table and used a for loop to extract all table elements.
 - Since the elements all had the same tag `<td>` and no available id/class to distinguish them, set all of the `<td>` values in the data row equal to the list of variables `id, terrestrial_date, sol, ls, month, min_temp, pressure` as those were the column names in order. This idea came from the linear regression function used in earlier lessons.
