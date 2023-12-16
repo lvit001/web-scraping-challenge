@@ -9,7 +9,8 @@
 - Successfully scraped code from the Mars data table and used a for loop to extract all table elements.
 - Since the elements all had the same tag `<td>` and no available id/class to distinguish them, set all of the `<td>` values in the data row equal to the list of variables `id, terrestrial_date, sol, ls, month, min_temp, pressure` as those were the column names in order. This idea came from the linear regression function used in earlier lessons.
 - Created dictionaries for each row of data and appended these dictionaries to a list. The list was then turned into a data frame.
-- Later on, defined functions to convert rows into either int64 or float64 datatypes for later analysis and visualization purposes.
+- Later on, defined functions to convert some of the rows into either int64 or float64 datatypes for later analysis and visualization purposes.
+- ![image](https://github.com/lvit001/web-scraping-challenge/assets/140283164/018d8cd2-9a8e-4c69-b807-4f82610f5dcb)
 - Received help with sorting the following value_counts function [here](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.value_counts.html).
 - ![image](https://github.com/lvit001/web-scraping-challenge/assets/140283164/1e200505-bd1f-4972-b41d-af0c4b3b12e6)
 - Received help with code for plotting the groupby data [here](https://stackoverflow.com/questions/40313727/bar-graph-from-dataframe-groupby).
