@@ -22,7 +22,7 @@
 - ![image](https://github.com/lvit001/web-scraping-challenge/assets/140283164/ade140bb-47c4-4cb9-a6b6-793e1ebece0e)
 - Additionally, plotted min-temp over the days that data was recorded on Mars. See graph below:
 - ![image](https://github.com/lvit001/web-scraping-challenge/assets/140283164/4277c293-9c0f-45d7-843a-351171669161)
-- All three graphs aligned with the provided data analysis at the bottom of the file.
+- Provided written analysis to answer the three questions posed in the assignment. 
 - Saved a CSV of the Mars data table [here](https://github.com/lvit001/web-scraping-challenge/blob/main/Starter_Code/mars_data.csv).
 
 
